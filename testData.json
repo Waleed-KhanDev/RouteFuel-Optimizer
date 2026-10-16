@@ -1,0 +1,22 @@
+[
+    {
+    "start": "New York, NY, USA",
+    "end": "Chicago, IL, USA"
+},
+{
+    "start": "Los Angeles, CA, USA",
+    "end": "San Francisco, CA, USA"
+},
+{
+    "start": "Chicago, IL, USA",
+    "end": "Denver, CO, USA"
+},
+{
+    "start": "Houston, TX, USA",
+    "end": "Austin, TX, USA"
+},
+{
+    "start": "New York, NY, USA",
+    "end": "Miami, FL, USA"
+}
+]
